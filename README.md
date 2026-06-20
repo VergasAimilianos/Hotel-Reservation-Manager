@@ -187,7 +187,7 @@ The profile page makes two sequential API calls: first to get the logged-in user
 
 ### Edit Profile Page
 
-Currently allows users to view their profile details and permanently delete their account. On deletion the user is redirected to `/signup`.
+Currently allows users to view their profile details and permanently delete their account. On deletion the user is redirected to `/register`.
 
 ---
 
