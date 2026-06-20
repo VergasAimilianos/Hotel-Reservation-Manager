@@ -1,0 +1,20 @@
+spring.application.name=HotelManagement
+#MYSQL CONNECTION
+server.port=
+spring.datasource.url=
+spring.datasource.username=
+spring.datasource.password=
+spring.datasource.driver-class-name=
+spring.jpa.properties.hibernate.dialect=
+spring.jpa.hibernate.ddl-auto=update
+
+#THE MAXIMUM SIGN OF IMAGE THAT CAN BE UPLOADED
+spring.servlet.multipart.max-file-size=2GB
+spring.servlet.multipart.max-request-size=2GB
+
+aws.s3.access.key= 
+aws.s3.secret.key =
+
+s3-bucker-name = 
+
+jwt.secret=
